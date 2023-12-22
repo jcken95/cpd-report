@@ -1,0 +1,19 @@
+title: tidyverse
+activity_type: Work based learning
+start_date: '2022-02-05'
+end_date: '2022-02-05'
+activity_url: ''
+learning_hours: '8'
+tags: 'R, programming'
+activity_description: |
+  I learned how to use some of the core tidyverse packages such as {dplyr} and {ggplot2} to manipulate and visualise data.
+  This was done by working with real data set taken from fisheries, using examples from stackoverflow and asking colleagues questions.
+benefit_to_practice: |
+  I had plenty of experience with base R but I had never used the tidyverse before or thought about tidy data structures.
+   The tidyverse packages are a standard and popular collection of packages in the R community, this will help me better understand other peoples code in the future.
+   I will use the tidyverse going forwards as I found it greatly simplified common tasks such as wrangling and visualising data.
+benefit_to_users: |
+
+  Learning {ggplot2} enabled me to better communicate my findings to clients in a visual way.
+  Learning {dplyr} and the other data-wrangling aspects of the tidyverse allows me to extract insights from data in a clean way.
+  Clients will benefit from easy to read code and improved insights from more complex visualisations.

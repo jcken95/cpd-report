@@ -1,0 +1,15 @@
+title: clustering-timeseries
+activity_type: Work based learning
+start_date: '2022-02-15'
+end_date: '2022-02-15'
+activity_url: ''
+learning_hours: '3'
+tags: 'statistics'
+activity_description: |
+  I was working on a project where I had to cluster thousands of time series.
+  I had never done this before, so I read academic papers, blog posts, and use vignettes from R packages to learn how to cluster time series.
+benefit_to_practice: |
+  I had some experience in clustering before, but I'd never clustered time series before and there were additional challenges such as missing observations in the time series.
+  The client wanted me to place each of the time series into one of four categories, however, they were unlabel thus clustering methods had to be used.
+benefit_to_users: |
+  Time series is a common data format, which I had little exerience with. This gave me more confidence to work with time series data, which is useful for future clients.

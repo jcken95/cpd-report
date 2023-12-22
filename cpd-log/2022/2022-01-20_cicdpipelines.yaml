@@ -1,0 +1,15 @@
+title: ci-cd-pipelines
+activity_type: Work based learning
+start_date: '2022-01-20'
+end_date: '2022-01-20'
+activity_url: ''
+learning_hours: '2'
+tags: 'git, programming'
+activity_description: |
+  Learning how to use CI/CD pipelines in GitLab to ensure that code meets certain automated quality checks.
+benefit_to_practice: |
+  As part of my internship at JR, I was developing an R package for a client.
+  At JR, code changes via a merge request on GitLab must must pass a series of automated checks via a GitLab CI pipeline prior to being merged into the main branch.
+benefit_to_users: |
+  Using a CI/CD pipeline catches lots of (potential) errors in code. Ensuring good quality, clean code, makes maintaining and modifying R packages simpler.
+  Conforming to a process for changing an R package means that the R package is always production ready, and thus, the client can be using the results and providing live feedback on the package whilst in develeopment.
