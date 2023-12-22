@@ -1,0 +1,16 @@
+title: git-team
+activity_type: Work based learning
+start_date: '2022-01-20'
+end_date: '2022-01-20'
+activity_url: ''
+learning_hours: '2'
+tags: 'git, programming'
+activity_description: |
+  Learning to use Git as a part of a team. I learned to use Git from the command line to create new branches, resolve merge conflicts
+benefit_to_practice: |
+  When making changes to a code-based project, Git allows you to track your changes. One way to improve the process further is to create a new "branch", a clean copy of the code and work within this branch.
+  Once happy with the changes, the branch is "merged" into the main code base.
+  When previously using git, I would always work directly with the main branch. This is a new way of working for me.
+benefit_to_users: |
+  This workflow, namely working from branches, allows me to experiment with the code and analysis in a way that is not destructive.
+    Since I am working for a client as an intern, this workflowlets me ensure there is always a "clean", ready-to-go version of the code available for the client.

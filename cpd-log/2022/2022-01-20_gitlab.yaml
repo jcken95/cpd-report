@@ -1,0 +1,15 @@
+title: gitlab
+activity_type: Work based learning
+start_date: '2022-01-20'
+end_date: '2022-01-20'
+activity_url: ''
+learning_hours: '2'
+tags: 'programming, git'
+activity_description: |
+  Learning to use GitLab for making changes to code and planning future work; using the issue board; submitting and reviewing merge requests.
+benefit_to_practice: |
+  At JR, where I am an intern, changes to code for an analysis must be reviewed by another team member. Issues are used to plan future work and record problems with the code/analysis.
+  I learned how to use these tools, and use GitLab to respond to code review to quickly implement code suggestions from a reviewer.
+benefit_to_users: |
+  High quality code, which has been reviewed, is essential for production ready analysis and allowed for efficient feedback.
+  Further, learning these tools has enabled me to provide code review for the team I work with, and flag problems in a structured way.

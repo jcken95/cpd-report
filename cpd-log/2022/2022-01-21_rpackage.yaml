@@ -1,0 +1,17 @@
+title: r-package
+activity_type: Work based learning
+start_date: '2022-01-21'
+end_date: '2022-01-21'
+activity_url: ''
+learning_hours: '8'
+tags: 'R, programming'
+activity_description: |
+  Whilst working as an intern/consultant, I was tasked with constructing an R package which analyses thousands of time series for fishery data.
+  This was the first time I had written an R package or produced production-ready code.
+benefit_to_practice: |
+  I have regularly written R code, including lots of functions but never before had I constructed a package.
+  I learned by reading articles and looking at the structure of other R packages.
+  I learned about the structure of an R package, how to construct a package and how to write documentation for my functions.
+benefit_to_users: |
+  Providing an R package for the client meant that they could easily re-run their analysis on an annual basis as data updates.
+  The R package provided lots of high-level functions, which meant the client could focus their efforts on the statistical results of the analysis, rather than getting frustrated with large, complex R files.
