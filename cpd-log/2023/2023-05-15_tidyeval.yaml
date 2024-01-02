@@ -1,0 +1,18 @@
+title: tidyeval
+activity_type: Work based learning
+start_date: '2023-05-15'
+end_date: '2023-05-15'
+activity_url: ''
+learning_hours: '6'
+tags: 'R, programming'
+activity_description: |
+  Learning about the tidy eval framework for programming with the tidyverse.
+  This was achieved by contributing to an R package which analysed rare disease data from a healthcare registry.
+benefit_to_practice: |
+  I have some experience with the tidyverse for data wrangling, but I'd not done much programming with the tidyverse before.
+  When creating an R package which relies on the tidyverse ({dplyr}, {ggplot2}, etc), the tidy eval framework (a collection of special operators) allow you to pass data variables as function arguments.
+  This is useful if you want to, for example, create a function which plots two column variables.
+  I used tidyeval in this project to write data wrangling functions to analyse the healthcare registry data.
+benefit_to_users: |
+  As an R developer, the tidyeval framework allows for flexible and robust programming within the tidyverse pacakges.
+  This is important for client work, flexible code ensures that making changes as per client requests is as seemless as possible.

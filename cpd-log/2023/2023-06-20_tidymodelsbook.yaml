@@ -1,0 +1,15 @@
+title: tidymodels-book
+activity_type: Self-directed learning
+start_date: '2023-06-20'
+end_date: '2023-06-20'
+activity_url: ''
+learning_hours: '3'
+tags: 'statistics, programming'
+activity_description: |
+  I worked my way through the book "Tidy Modelling with R". This book walks through the {tidymodels} collection of packages for machine learning in R.
+benefit_to_practice: |
+  Much of my statistical training is in classical statistics and Bayesian modelling. Reading this book has exposed me to many machine learning techniques and a general machine learning workflow.
+  I am now familiar with the basics of the {tidymodels} packages.
+benefit_to_users: |
+  As a consultant, being familiar with a broad range of modelling approaches is important, as clients may as for almost anything. It is therefore important to understand the basics of machine learning.
+  In the future, I will start to use {tidymodels}. This offers a clean, reproducible pipeline for creating models. This is is important to recreate results at a future date.

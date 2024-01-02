@@ -1,0 +1,16 @@
+title: sip
+activity_type: Professional activity
+start_date: '2023-10-12'
+end_date: '2023-10-12'
+activity_url: ''
+learning_hours: '6'
+tags: 'conference'
+activity_description: |
+  I attended the 2023 Shiny in Production conference in Newcastle.
+  This conference is all about Shiny and related R packages. These packages allow a statistician or data scientist to create dashboards from R.
+  There were numerous talks. I particularly enjoyed Cara Thompson's talk about how to make better use of text in data visualisations.
+benefit_to_practice: |
+  This conference was a good way to learn about the broad use of Shiny applications in industry.
+  I also learned about other aspects of Shiny dashboards, such as how to make sure they are secure, and how to ensure that a Shiny app is fit for purpose.
+benefit_to_users: |
+  I'd like to use Shiny more in the future. Listening to those who have lots of experience with Shiny apps will help me in the future, as I will be aware of some potential problems and best practices.

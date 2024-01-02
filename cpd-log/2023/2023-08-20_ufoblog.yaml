@@ -1,0 +1,19 @@
+title: ufo-blog
+activity_type: Self-directed learning
+start_date: '2023-08-20'
+end_date: '2023-08-20'
+activity_url: ''
+learning_hours: '2'
+tags: 'statistics, programming, stan'
+activity_description: |
+  For work I wrote a blog post about modelling UFO reports with the Stan modelling language.
+  I was already familar with Stan, but I wanted to learn about {tidybayes}, an R package for manipulating MCMC output whilst following tidy data principles.
+  I also learned about some of the functionallity of {ggdist}, a {ggplot2} extension which is useful for visualising Bayesian models.
+  To learn this package, I read vignettes and package documentation. I also learned by fitting my own model and using the package functions.
+benefit_to_practice: |
+  Writing this blog was a great way to obtain hands-on experience with {tidybayes} and {ggdist} and to maintain my Stan knowledge.
+  In writing the blog, I had to carefully explain all the topics I covered. Explaining topics is a great way to learn them.
+benefit_to_users: |
+  The blog informs readers about how to analyse certain types of time series in R using Stan, a probabalistic programming language for Bayesian inference.
+  As part of my job, I teach Stan. This enabled me to practice my Stan skills and learn about R packages which are complementary to Stan.
+  Course attendees may find {tidybayes} useful, as it works well with common R pacakges such as {dplyr} and other aspects of the {tidyverse}.
