@@ -1,0 +1,15 @@
+title: r4ds
+activity_type: Self-directed learning
+start_date: '2023-10-20'
+end_date: '2023-10-20'
+activity_url: ''
+learning_hours: '2'
+tags: 'R, programming'
+activity_description: |
+  I read through the R for Data Science (R4DS) book.
+benefit_to_practice: |
+  Reading the book provided me with a high-level overview of how to use R for production-ready data science.
+  The modelling section was particularly interesting, my previous experience of fitting models is a fairly hand-on process. I enjoyed seeing how R can be used to automate the fitting of a large number of models.
+benefit_to_users: |
+  I was familiar with many topics from this book, but I had never really thought about how to string the topics together to construct and end-to-end data process.
+  Further, this book is an excellent reference for learners. As an R instructor, being familiar with this book means I can signpost my course attendees to this book to complement their own learning.

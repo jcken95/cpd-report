@@ -1,0 +1,17 @@
+title: rmd
+activity_type: Work based learning
+start_date: '2022-01-21'
+end_date: '2022-01-21'
+activity_url: ''
+learning_hours: '2'
+tags: 'writing, R'
+activity_description: |
+  Learning how to use R Markdown to create automated, technical reports.
+  This was done in a practical way by writing reports, and using existing reports to understand the syntax.
+benefit_to_practice: |
+  R Markdown allows code, data and text to be linked together.
+  This produces a reproducible workflow for creating reports and presentations.
+benefit_to_users: |
+  R Markdown provides a transparent, reproducible way to share your statistical findings.
+  Whilst working as a consultant, this means that the client can see the inner workings of the document and understand the statistical methods behind a generated report.
+  Further, since code is integrating into an R Markdown report, making changes to, for example, graphs as per the client request is as simple as modifying the graph. Re-rending the report will automatically pull through changes.

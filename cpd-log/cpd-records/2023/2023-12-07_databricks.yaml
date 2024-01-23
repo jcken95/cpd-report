@@ -1,0 +1,16 @@
+title: databricks
+activity_type: Professional activity
+start_date: '2023-12-07'
+end_date: '2023-12-07'
+activity_url: ''
+learning_hours: '1'
+tags: 'meetup'
+activity_description: |
+  I attended the December 2023 Newcastle Databricks meetup. Databricks is a platform which is used for managing data, deploying models and other data related tasks at scale.
+  Thor List gave a talk about how Large Language Models (LLMs) and Generative AI will shape the future of data science. He also spoke about what Databricks is and how a data team can use Databricks.
+benefit_to_practice: |
+  LLMs such as ChatGPT are a hot topic at the moment. I learned about how they could be used in the future as a "co pilot" for a data scientist writing code.
+  I also learned about when Databricks might be used in an industrial setting.
+benefit_to_users: |
+  Databricks is used by many clients, thus understanding the basics of its use case will allow me to better scope projects.
+  Learning about generative AI is important for my teaching. Course attendees sometimes ask me about technologies such as ChatGPT, and understanding its limitations will help me to answer their questions.

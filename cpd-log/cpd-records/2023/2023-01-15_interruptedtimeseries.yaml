@@ -1,0 +1,19 @@
+title: interrupted-time-series
+activity_type: Work based learning
+start_date: '2023-01-15'
+end_date: '2023-01-15'
+activity_url: ''
+learning_hours: '4'
+tags: ''
+activity_description: |
+  Interrupted time series (ITS) is a statistical method for investigating the effect of an intervention on a population.
+  It is useful when randomisation is not suitable or possible. I used ITS to investiate how patient outcomes changed before and after certain treatments became available.
+
+benefit_to_practice: |
+  I'd never used ITS before, and all my previous work with time series was based around ARIMA modelling. I'd only fit models for time series based on the Normal distribution.
+  I read papers and articles to learn about the mathematics of ITS and the pros and cons of ITS. I read additional articles about Poisson time series as my application was for count data.
+  I also learned about the {countts} package for analysis of time series where the observations are count data (Poisson, or Negative Binomial distributed).
+
+benefit_to_users: |
+  The ITS analysis was asked for by a client and critical to their understanding of the effect of treatment availability on a rare disease.
+  This has allowed me to learn about different type of time series analysis which will be useful in future client work.

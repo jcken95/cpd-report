@@ -1,0 +1,15 @@
+title: advanced-git
+activity_type: Work based learning
+start_date: '2023-05-01'
+end_date: '2023-05-01'
+activity_url: ''
+learning_hours: '2'
+tags: 'programming, git'
+activity_description: |
+  At work I learned some advanced git skills to help with maintaing R pacakges.
+  This includes interactive rebasing, ammending commit messages, and squashing commits.
+benefit_to_practice: |
+  My advanced git skills allow me to clean up my work as I go. My commit history is much cleaner.
+benefit_to_users: |
+  A clean git commit history makes reviewing code much simpler. This means that my code can enter main much easier.
+  This ultimately means that the client can recieve their product sooner.

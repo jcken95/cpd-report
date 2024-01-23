@@ -1,0 +1,20 @@
+title: tidytuesday
+activity_type: Self-directed learning
+start_date: '2023-01-12'
+end_date: '2023-01-12'
+activity_url: ''
+learning_hours: '10'
+tags: 'statistics, visualisation,  R'
+activity_description: |
+  The #TidyTuesday challenge is a weekly, just-for-fun, data challenge where attendees are presented with a data set and use R to find an insight from the data.
+  The attempts are shared online, and available on my (Github profile)[https://github.com/jcken95/tidytuesday].
+
+benefit_to_practice: |
+  I attempted the challenge 8 times this year. In each attempt, I typically try our a new-to-me R package or chart type.
+  For example, this year, I learned about the {ggwaffle} and waffle charts as a way to graphically present compositional data.
+  I also tried out the {corrr} library for easy ways to graphically present the correlations between variables in a large dataset.
+  With each attempt, I provide alt-text. This is a text description of the plot for those using screen readers.
+benefit_to_users: |
+  As a consultant, developing my visualision skills means I am able to provide production-ready graphics for my clients.
+  Writing alt-text develops my communication skills, as I have to decribe the plot in text. This also develops my understanding of accessibility.
+  Finailly, trying out R packages is useful for my work as a trainer. I am able to suggest useful R packages to course attendees when they ask questions such as "How can I do X in R?".

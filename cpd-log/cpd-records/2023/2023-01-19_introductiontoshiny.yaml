@@ -1,0 +1,17 @@
+title: introduction-to-shiny
+activity_type: Formal / educational
+start_date: '2023-01-19'
+end_date: '2023-01-19'
+activity_url: ''
+learning_hours: '6'
+tags: 'programming,  R'
+activity_description: |
+  I attended an Introduction to Shiny course run my Jumping Rivers, the company who I also work for.
+  This was part of my onboarding process, to see how an online course is taught, and to expose me to Shiny, an R package for creating dashboards.
+benefit_to_practice: |
+  I learned about how to create a dashboard in R using the {shiny} package. I build up a dashboard during the course to display information about flights from an airport.
+  The course also touched on topics such as HTML and web accessiblilty (for those with visual impairments).
+  Attending the course was also part of my onboarding process at Jumping Rivers, so I watched the trainer to see how they would deliver an online course.
+benefit_to_users: |
+  Shiny is a popular framework for building dashboards. Learning the basics means I can start to build my own dashboards for clients in the future.
+  Watching the trainer deliver the course also increased my confidence in delivering online courses at work.
