@@ -1,0 +1,17 @@
+title: Bayesian Meta Analysis
+activity_type: Formal / educational
+start_date: '2024-03-18'
+end_date: '2024-03-18'
+activity_url: ''
+learning_hours: '6'
+tags: 'training'
+activity_description: |
+  I attended a two day course on Bayesian meta analysis with Stan, run by Robert Grant/RSS.
+  The course covered the theory of Bayesian meta analysis, as well as the practical implementation through R and Stan.
+benefit_to_practice: |
+  I've never done any meta analysis before, so this was a great introduction to leaning how to combine the outputs of many studies.
+  This was also a good opportunity to learn some Stan tips, like creating bespoke distributions.
+benefit_to_users: |
+  Improving my Stan skills means I can write better/more robust code which improves our products for customer/stakeholders.
+  Learning about (Bayesian) meta analysis means I could now begin to aggreate studies; this would be useful for us a time-to-event context. For example, performing inference about the amount of time an individual spends in hospital with a given disease.
+

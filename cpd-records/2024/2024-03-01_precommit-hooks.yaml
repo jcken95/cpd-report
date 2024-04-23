@@ -1,0 +1,18 @@
+title: Pre-commit hooks
+activity_type: Work based learning
+start_date: '2024-03-01'
+end_date: '2024-03-01'
+activity_url: ''
+learning_hours: '1.5'
+tags: 'code, git'
+activity_description: |
+  Our internal git repos use pre-commit hooks to ensure a certain level of code quality is ahered to. The "hooks" are essentially a mini CI/CD pipelines.
+  I've never used these before (or our internal procedures), so I learned about how to run the hooks, and spent time reading documentation to learn about which hooks are running, as well as how to change the hooks as our needs change in the future.
+benefit_to_practice: |
+  Using the hooks and learning to edit them allows me to write higher quality, more robust code.
+  This means that I am adhering to best programming practices.
+  Learning to manipulate hooks means I am able to adhere to best practices as they change over time.
+benefit_to_users: |
+  High quality code is important to ensure our product delivery is as smooth as posisble.
+  This means I can quickly deliver regular analyses to stakeholders whilst minimising problems on the day.
+  Knowing how to modify hooks means I can ensure the rest of my team are using best practices.
