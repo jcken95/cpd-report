@@ -7,14 +7,18 @@ output:
 toc: true
 toc_float: true
 number_sections: yes
+echo: FALSE
+warning: FALSE
+message: FALSE
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```{r}
+#| label: r-setup
+#| echo: FALSE
+library("levelup")
 library("lubridate")
 library("gt")
 library("emo")
-library("levelup")
 library("dplyr")
 
 df <- import_cpd(path = "cpd-records")
@@ -28,14 +32,16 @@ CPD should be a key part of a professional statistician's work ethic. CPD means 
 
 Each year, I should have at least 60 hours of learning hours, across at least three of the following pre-defined categories.
 
-  * Work based learning
-  * Professional activity
-  * Formal / educational
-  * Self-directed learning
-  * Other
+* Work based learning
+* Professional activity
+* Formal / educational
+* Self-directed learning
+* Other
 
 
-```{r annual total, echo = FALSE}
+```{r}
+#| label: annual-total
+#| echo: false
 df <- df %>%
   mutate(year = year(start_date)) %>%
   mutate(learning_hours = as.numeric(learning_hours))
@@ -54,6 +60,7 @@ df %>%
 ```
 
 ```{r, echo = FALSE, results = "asis"}
+#| results: "asis"
 years <- sort(unique(df$year), decreasing = TRUE)
 
 md <- lapply(years, function(y) {

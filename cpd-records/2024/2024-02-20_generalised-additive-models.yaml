@@ -1,0 +1,18 @@
+title: Generalised additive models
+activity_type: Work based learning
+start_date: '2024-02-20'
+end_date: '2024-02-20'
+activity_url: ''
+learning_hours: '2'
+tags: 'statistics, R'
+activity_description: |
+  GAMs (generalised additive models) are flexible regression models. We use them at UKHSA to flexibly model healthcare metrics over time.
+  I read papers about GAMs in forecasting/nowcasting contexts, reviewed internal code and use/read documentation for {mgcv}; a popular R package for fitting GAMs.
+benefit_to_practice: |
+  I had little exerience with GAMs and now/forecasting.
+  This was a good opportunity to expand my statistical knowledge on both GAMs and now/forecasting.
+
+benefit_to_users: |
+  GAMs are simple and efficient for modelling complex processes.
+  This combiniation of flexibility and simplicity means I am able to quickly produce appropriate models for healthcare metrics over time (e.g. patient numbers per day). This is useful in, for example, incident response where a stakeholder may need an analysis quickly.
+  Our regular forecasts also rely on GAMs and {mgcv}, thus this means I am in a better position to maintain our codebase.

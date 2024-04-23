@@ -1,0 +1,16 @@
+title: Databricks meetups
+activity_type: Professional activity
+start_date: '2024-01-01'
+end_date: '2024-01-01'
+activity_url: ''
+learning_hours: '1'
+tags: 'meetups'
+activity_description: |
+  I have attended 1 Databricks user group meetup this year. The meetup incldes talks from a Databricks user/developer and networking with data scientist/engineers and tech workers in my local area.
+
+  The talk I attended was an introduction to databricks. This included an explanation of Databricks, as well as a primer on data lake, warehouses and the "data lakehouse" and data engineering principles.
+benefit_to_practice: |
+ Learning about how large data volumes are processed in industry and learning about data engineering best practices is new to me.
+ Networking with local tech workers is good; it's good to learn about what other people do, build a support network and haer new ideas.
+benefit_to_users: |
+ TBC

@@ -1,0 +1,15 @@
+title: NEDS meetups
+activity_type: Professional activity
+start_date: '2024-01-01'
+end_date: '2024-01-01'
+activity_url: ''
+learning_hours: '2'
+tags: 'meetups'
+activity_description: |
+  I attended (and hosted) North East Data Scientist meetups this year. Talks included ethical AI and large language models (LLMs).
+benefit_to_practice: |
+  I attended talks in which I learned about numerous topics including how to assess models for biases (Rob Geada, Red Hat) and how to fit and use LLMs, a current hot topic in data science (Mac Misura, NICD).
+benefit_to_users: |
+  As someone who uses statistical/machine learning models in a healthcare setting, understanding ethical AI is really important as healthcare outcomes are a function of social/economic inequalities.
+  LLMs have the potential to completely change the way programmers work in the future. Gaining an understanding into them is potentially critical to all future data science work.
+
