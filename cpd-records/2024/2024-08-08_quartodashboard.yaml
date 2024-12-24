@@ -1,0 +1,17 @@
+title: quarto dashboard
+activity_type: Work based learning
+start_date: '2024-08-08'
+end_date: '2024-08-08'
+activity_url: ''
+learning_hours: '2'
+tags: 'r, quarto, dashboard'
+activity_description: |
+  I scoped and produced a basic, static dashboard using quarto. The dashboard was parametersed so that dashboards could be generated to show heath metrics for different geographic regions.
+
+  I read documentation and used other examples from GitHub to learn how to make my own static dashboard.
+benefit_to_practice: |
+  This was my first experience using quarto to generate a static dashboard. I had also never constructed a parameterised dashabord before, so these were both learning experiences.
+  I now feel confident in my ability to develop this dashboard further and construct a polished dashboard that can be sent to customers/stakeholders.
+benefit_to_users: |
+  This dashboard allows the team I work to share more insights. Most of the work we share is for national projections of health metrics. Constructing a format for more granular outputs means we can share our work with regional health teams.
+  This increases the relevance of the work we are able to do, and widens our audience, without much additional work as many of our statistical models already account for regional differences in health metrics.

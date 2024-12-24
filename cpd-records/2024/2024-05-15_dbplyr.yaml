@@ -1,0 +1,15 @@
+title: dbplyr & SQL
+activity_type: Work based learning
+start_date: '2024-05-15'
+end_date: '2024-05-15'
+activity_url: ''
+learning_hours: '4'
+tags: 'r, SQL, data-engineering'
+activity_description: |
+  I was tasked with translating a SQL query from one database to another. I also wrote the query in R using {dplyr} and {dbplyr}.
+benefit_to_practice: |
+  At the time of constructing/translating the query, I had run existing SQL queries before, I had never written my own query or modified an existin one. I had not used {dbplyr} either, and had a very limited experience of connecting to databases.
+  I learned a lot of the main SQL verbs and some basic SQL debugging practices. I also learned about {dbplyr} and how to connect to a database directly from R.
+benefit_to_users: |
+  My team has previously used "raw" SQL to construct queries, rather than via {dbplyr}. Therefore, I tried this approach which lead to a maintable, parameterised query. This groundwork was then used to re-write one of our main queries in a {dbplyr} way, meaning our core query became parameterised and maintainable.
+  Further, constructing this query allowed my team to access a new dataset. This allowed us to conduct analyses for an incident within UKHSA and provide insights and analysis for stakeholders.

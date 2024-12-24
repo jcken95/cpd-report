@@ -1,0 +1,15 @@
+title: scoping and prototyping officer
+activity_type: Work based learning
+start_date: '2024-04-04'
+end_date: '2024-04-04'
+activity_url: ''
+learning_hours: '3'
+tags: ''
+activity_description: |
+  officer in an R package for generating Microsoft office documents from R. This allows the user to, for example, generate a reproducable powerpoint presentation using a powerpoint template.
+  I scoped the use of {officer} to automatically generate powerpoint presentations, and developed a small prototype presentation with the officer package.
+benefit_to_practice: |
+  I have limited experience with MS office products, having been a linux/open source user for most of my career to date. I learned about how to make an powerpoint template using the slide master and then use {officer} to generate a presentatation.
+benefit_to_users: |
+  In the winter period, the team I work in generates analyses on a weekly basis and produces a standardised slide pack for customers across our organisation.
+  Automating the slide pack would save us a lot of time over the winter period and reduce human error as the current process involves a lot of copy-and-paste of graphs, tables and other quantities of interest.

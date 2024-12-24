@@ -1,0 +1,20 @@
+title: Internal code review guide
+activity_type: Work based learning
+start_date: '2024-08-01'
+end_date: '2024-08-01'
+activity_url: ''
+learning_hours: '3'
+tags: ''
+activity_description: |
+  I constructed a code review "best practice" guide for internal use within my team.
+  To construct the guide, I read blogs, primarily from software developers / large organisations (e.g. GitLab, Stack Exchange). I tailored the findings to that of my team who are data scientists, not developers.
+
+
+benefit_to_practice: |
+  Code review is a critical part of our quality assurance process. This enncouraged me to think about my own approach to code review (and reviewing other forms of work) in a way which addresses concerns but is positive and maintains good relationships with colleagues.
+  This helps us to have high-quality outputs, but also have good team morale.
+
+benefit_to_users: |
+  The guide is helpful to existing, and new, team members to help them understand why we do code review and how to provide code review in a way which is positive and encouraging.
+  Part of developing the guide was a team discussion about the "rules" we should follow when reviewing code. This encouraged others to go through a similar process to me in learning about positive feedback.
+  The development of the guide has enabled us to challenge one another, without being confrontational.

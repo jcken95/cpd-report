@@ -1,0 +1,15 @@
+title: quarto html template
+activity_type: Work based learning
+start_date: '2024-08-01'
+end_date: '2024-08-01'
+activity_url: ''
+learning_hours: '2'
+tags: 'r, quarto, html'
+activity_description: |
+  I constructed a UKHSA quarto template and extension for writing html reports.
+  The template used corporate colours, displayed the UKHSA logo and had appropriate disclaimers about useage and sharing of content.
+benefit_to_practice: |
+  Learning some basic html is useful for styling documents. In the future I aim to develop a dashboard for some of the work I do, so leaning basic html in a static report is good preperation.
+benefit_to_users: |
+  The template can be used not only by myself, but also colleagues. Quarto allows you to integrate code and prose, meaning reproducible reports can be constructed.
+  A barrier to using quarto at work is the lack of corporate branding on documents. The branded template means we can share analyses produced in quarto outside of our team.
