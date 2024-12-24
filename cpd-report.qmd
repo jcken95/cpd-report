@@ -4,6 +4,7 @@ author: "Jack Kennedy"
 output:
   html_document:
   theme: united
+  embed-resources: true
 toc: true
 toc_float: true
 number_sections: yes
