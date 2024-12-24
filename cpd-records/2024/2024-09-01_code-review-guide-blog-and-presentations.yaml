@@ -1,0 +1,20 @@
+title: Code review for statisticians, data scientist and modellers blog and presentations
+activity_type: Other
+start_date: '2024-09-01'
+end_date: '2024-09-01'
+activity_url: ''
+learning_hours: '3'
+tags: ''
+activity_description: |
+  I took the findings of my internal code review guide and wrote them up as publically available [blog post](https://jcken95.github.io/projects/code_review.html).
+  To construct the post, I needed to refresh myself on how to manage my quarto website/blog. I also needed to re-write my original internal document to appeal to a general purpose data science/analyst audience.
+
+  The post was successful which lead to two invited talks: one for a UKHSA monthly data scientists meeting, and another for a ONS coffee and code session. This meant I had to re-write the material again to make it suitable for a presentation rather than written format.
+
+benefit_to_practice: |
+  Writing a blog post is a different medium and it's good to practice different communication styles and reach new audiences.
+  It was also good to talk about highly techincal problems such as code review, github and commits in a fairly informal way. This helps me to better explain these concepts to people, and makes me view them in new, more intuitive ways.
+
+benefit_to_users: |
+  Writing the blog and delivering subsequent presentations has made this content available for many others to learn from and bring to their own teams with appropraite adaptations.
+  I had pitched a lot of the content at those in data roles, rather than general software development, so these techniques are more likley to become available to this communuity.

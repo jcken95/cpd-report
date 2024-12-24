@@ -1,0 +1,15 @@
+title: Analytical confidence ratings
+activity_type: Work based learning
+start_date: '2024-11-01'
+end_date: '2024-11-01'
+activity_url: ''
+learning_hours: '1'
+tags: ''
+activity_description: |
+  Analytical confidence ratings (AnCR) are ratings given to (probabalistic) statements used to communicate levels of doubt to a decision maker.
+  Through discussions with other teams and colleages in my team, I heav been learning about AnCR by writing my own confidence assessment and engaging in feedback from our users and team with more experience in AnCR.
+benefit_to_practice: |
+  It's really useful to think about how creidble modelling outputs are based on factors such as the quality of available data and epidemiological knowledge.
+  Learning about AnCR rating has encouraged me to think more carefully about our modelling pipelines and data quality to ensure we have the best possible forecast available for customers.
+benefit_to_users: |
+  The work I do is used by decision makers in goverment and NHS management. Appropriately communicating uncertainty and plausibility of my analyses helps decision makes take the most appropriate actions to protect the health of the nation.

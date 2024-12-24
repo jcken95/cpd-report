@@ -1,0 +1,17 @@
+title: 'Arrow workshop'
+activity_type: Formal / educational
+start_date: '2024-07-18'
+end_date: '2024-07-18'
+activity_url: ''
+learning_hours: '2'
+tags: 'r, data-engineering'
+activity_description: |
+  Attended an Introduction to Arrow workshop.
+  I coded along, learning about {arrow} for accessing and manipulating larger-than-memory datasets.
+  I also learned about some data engineering practices, such ways to store data to optimise queries.
+  There was also an overview of data storage including colmnar format and parquet.
+benefit_to_practice: |
+  I've never used {arrow}, so it was good to learn a new package and learn data engineerin practices. I am trying to learn more about data engineering.
+benefit_to_users: |
+  I commonly have to access and use large amounts of data to develop products and construct deliverables for customers.
+  Understanding how to manage large amounts of data means I can write better code for my colleages to use, and also allows me to work with new data sets, improving the deliverables for customers.
